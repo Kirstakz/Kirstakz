@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirstakz
-- 👀 I’m interested in Python/SQL
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python/SQL/PLSQL/GO
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
